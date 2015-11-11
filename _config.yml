@@ -14,7 +14,7 @@ description: >
   comics, television, movies, and gaming. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "//geekendpodcast.com" # the base hostname & protocol for your site
-twitter_username: tylerchilds
+twitter_username: geekendupdate
 github_username:  tylerchilds
 
 # Build settings
