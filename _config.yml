@@ -8,10 +8,10 @@
 # Site settings
 title: Geekend Update
 email: tylerwchilds@gmail.com
-description: > 
+description: >
   Geekend Update is a merry old band of fellows
   discussing geek pop culture, including, but not limited to,
-  comics, television, movies, and gaming. 
+  comics, television, movies, and gaming.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "//geekendpodcast.com" # the base hostname & protocol for your site
 twitter_username: geekendupdate
@@ -19,3 +19,7 @@ github_username:  tylerchilds
 
 # Build settings
 markdown: kramdown
+permalink: pretty
+
+lang: en
+author: Tyler Childs
